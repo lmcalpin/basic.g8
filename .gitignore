@@ -2,7 +2,7 @@ target/
 boot/
 lib_managed/
 src_managed/
-project/
+/project/
 bin/
 .scala_dependencies
 .project
