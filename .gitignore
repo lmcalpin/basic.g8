@@ -4,5 +4,6 @@ lib_managed/
 src_managed/
 project/
 bin/
-.scala_dependencies/
-.project/
+.scala_dependencies
+.project
+
