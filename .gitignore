@@ -6,4 +6,4 @@ src_managed/
 bin/
 .scala_dependencies
 .project
-
+.classpath
