@@ -1,3 +1,5 @@
-class Main {
-  // got any helpful boilerplate for your users?
+object Main {
+	def main(args: Array[String]) {
+		println("Hello, world!")
+    }
 }

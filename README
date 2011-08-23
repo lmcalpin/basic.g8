@@ -1,1 +1,9 @@
-Basic giter8 template.
+Basic giter8 template:
+ - scala 2.9.0
+ - scalatest 1.6.1
+ - junit 4.8
+ - logback
+ - sbteclipse
+ - specs
+ 
+ 
