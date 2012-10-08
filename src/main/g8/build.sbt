@@ -15,7 +15,5 @@ libraryDependencies ++= Seq(
     "org.scalacheck" %% "scalacheck" % "1.10.0" % "test"
 )
 
-resolvers ++= Seq("snapshots" at "http://scala-tools.org/repo-snapshots",
-                    "releases"  at "http://scala-tools.org/repo-releases",
-                    "snapshots" at "http://oss.sonatype.org/content/repositories/snapshots",
+resolvers ++= Seq("snapshots" at "http://oss.sonatype.org/content/repositories/snapshots",
                     "releases"  at "http://oss.sonatype.org/content/repositories/releases")
